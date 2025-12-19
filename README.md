@@ -102,6 +102,7 @@ Et VIEW fungerer som et sikkerhedstiltag ved at:
 ## ER-Diagram
 
 Se vedlagt fil: `supplycheck_ER-diagram.png`
+
 https://dbdiagram.io/d/supplycheck-6941556a6167ba7414739b7c
 ---
 December 2025
